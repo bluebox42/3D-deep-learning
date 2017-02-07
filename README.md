@@ -1,9 +1,9 @@
 # 3D Deep Learning
 
-## Cloning the wiki
-```
-$ git clone git@github.com:Blitzman/3d-deep-learning-wiki.git
-```
+
+## Interesting papers about 3D Classification
+
+- [Deep Learning on Point Sets for 3D Classification and Segmentation](https://web.stanford.edu/class/cs331b/projects/qi.pdf)
 
 ## Interesting Reads and Links
 
