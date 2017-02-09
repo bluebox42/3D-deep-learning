@@ -7,8 +7,10 @@
 ### Voxel struct as input
 - [3D Convolutional Neural Networks for Landing Zone Detection from LiDAR](https://www.ri.cmu.edu/pub_files/2015/3/maturana-root.pdf).
 ### Point Cloud as input
-- [Vote3Deep: Fast Object Detection in 3D Point Clouds Using Efficient Convolutional Neural Networks](https://arxiv.org/pdf/1609.06666v1.pdf).
-- [Learning objects from RGB-D sensors using point cloud-based neural networks](https://www2.informatik.uni-hamburg.de/wtm/ps/Borghetti_ESANN_2015.pdf).
+- 1 [Vote3Deep: Fast Object Detection in 3D Point Clouds Using Efficient Convolutional Neural Networks](https://arxiv.org/pdf/1609.06666v1.pdf).
+- 2 [Learning objects from RGB-D sensors using point cloud-based neural networks](https://www2.informatik.uni-hamburg.de/wtm/ps/Borghetti_ESANN_2015.pdf).
+- 3 [3D Object Recognition using Convolutional Neural Networks with Transfer Learning between Input Channels](http://www.di.ubi.pt/~lfbaa/pubs/ias-13.pdf)
+- 4 [Orientation-boosted Voxel Nets for 3D Object Recognition](https://arxiv.org/pdf/1604.03351.pdf)
 
 
 #### Interesting Reads and Links
