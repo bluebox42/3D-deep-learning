@@ -4,6 +4,10 @@
 ## Interesting papers about 3D Classification
 
 - [Deep Learning on Point Sets for 3D Classification and Segmentation](https://web.stanford.edu/class/cs331b/projects/qi.pdf)
+#Voxel struct as input
+- [3D Convolutional Neural Networks for Landing Zone Detection from LiDAR](https://www.ri.cmu.edu/pub_files/2015/3/maturana-root.pdf)
+#Point Cloud as input
+- [Vote3Deep: Fast Object Detection in 3D Point Clouds Using Efficient Convolutional Neural Networks](https://arxiv.org/pdf/1609.06666v1.pdf)
 
 ## Interesting Reads and Links
 
