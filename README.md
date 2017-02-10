@@ -57,6 +57,9 @@ A nice collection of final reports by the course students is available [here](ht
 - [GitHub repository](https://github.com/BVLC/caffe/)
 - [arXiv / ACM MM ‘14 paper. Caffe: Convolutional Architecture for Fast Feature Embedding](http://arxiv.org/abs/1408.5093)
 - [Hands-On Tutorial: Deep Learning for Vision with Caffe](https://docs.google.com/presentation/d/1UeKXVgRvvxg9OUdh_UiC5G71UMscNPlvArsWER41PsU/edit#slide=id.p)
+
 ### TensorFlow
+
 -[Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow)
+
 ### Theano
