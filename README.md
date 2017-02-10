@@ -63,5 +63,6 @@ A nice collection of final reports by the course students is available [here](ht
 ### TensorFlow
 
 - [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow)
+- [First contact with TensorFlow](http://jorditorres.org/first-contact-with-tensorflow/)
 
 ### Theano
