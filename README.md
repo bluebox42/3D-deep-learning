@@ -64,5 +64,6 @@ A nice collection of final reports by the course students is available [here](ht
 
 - [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow)
 - [First contact with TensorFlow](http://jorditorres.org/first-contact-with-tensorflow/)
+- [Understanding neural networks with TensorFlow Playground](https://cloud.google.com/blog/big-data/2016/07/understanding-neural-networks-with-tensorflow-playground)
 
 ### Theano
