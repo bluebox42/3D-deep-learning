@@ -13,6 +13,7 @@
 - 2 [Learning objects from RGB-D sensors using point cloud-based neural networks](https://www2.informatik.uni-hamburg.de/wtm/ps/Borghetti_ESANN_2015.pdf).
 - 3 [3D Object Recognition using Convolutional Neural Networks with Transfer Learning between Input Channels](http://www.di.ubi.pt/~lfbaa/pubs/ias-13.pdf)
 - 4 [Orientation-boosted Voxel Nets for 3D Object Recognition](https://arxiv.org/pdf/1604.03351.pdf)
+- 5 [3D Fully Convolutional Network for Vehicle Detection in Point Cloud](https://arxiv.org/pdf/1611.08069.pdf)
 
 
 #### Interesting Reads and Links
