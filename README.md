@@ -1,6 +1,10 @@
 # 3D Deep Learning
 
 
+## 3D CNNs
+- [PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation
+](http://stanford.edu/~rqi/pointnet/)
+
 ## Interesting papers about 3D Classification
 
 - [Deep Learning on Point Sets for 3D Classification and Segmentation](https://web.stanford.edu/class/cs331b/projects/qi.pdf).
